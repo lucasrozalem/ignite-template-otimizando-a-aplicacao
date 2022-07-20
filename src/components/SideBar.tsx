@@ -10,6 +10,7 @@ interface SideBarProps {
   buttonClickCallback: (args: any) => void;
 }
 
+
 export function SideBar({
   genres,
   selectedGenreId,
